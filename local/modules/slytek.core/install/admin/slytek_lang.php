@@ -1,0 +1,1 @@
+<?require ($_SERVER["DOCUMENT_ROOT"]."/local/modules/slytek.core/admin/slytek_lang.php");?>

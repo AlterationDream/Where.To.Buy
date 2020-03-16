@@ -1,0 +1,6 @@
+.inline-left li{
+	font-size: 1.4rem !important;
+}
+.main-info-block.wide-block {
+    width: calc(100% - 260px) !important;
+}
