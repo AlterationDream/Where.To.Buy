@@ -1,2 +1,2 @@
 # Where.To.Buy
-компонент битрикс
+1С-Bitrix Component
